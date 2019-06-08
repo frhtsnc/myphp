@@ -63,6 +63,7 @@
           </ol>
           <h1>Welcome to an OpenShift Application!</h1>
           <p>The purpose of this application is to discovere Openshift features. We hope you enjoy it!</p>
+          <p>Ferhat Sanuc</p>
         </div>
       </div>
       <div class="row">
