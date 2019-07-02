@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application!</h1>
+          <h1>Welcome to an OpenShift Application!Ferhat</h1>
           <p>The purpose of this application is to discovere Openshift features. We hope you enjoy it!</p>
           <p>configured by Ferhat Sanuc</p>
         </div>
