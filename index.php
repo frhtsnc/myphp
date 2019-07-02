@@ -7,38 +7,9 @@
     <title>Ferhat Sanuc Tez Calismasi</title>
   </head>
   <body>
-    <nav class="navbar navbar-default navbar-pf" role="navigation">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse-1">
-          <span class="sr-only">Toggle navigation</span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="/">
-          <img src="../dist/img/brand.svg" alt="PatternFly Enterprise Application" />
-        </a>
-      </div>
-      <div class="collapse navbar-collapse navbar-collapse-1">
-        <ul class="nav navbar-nav navbar-utility">
-          <li>
-            <a href="#">Status</a>
-          </li>
-        </ul>
-        <ul class="nav navbar-nav navbar-primary">
-          <li class="active">
-            <a href="basic.html" class="active">Basic</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-12">
-          <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li>Basic</li>
-          </ol>
           <h1>Welcome to an OpenShift Application!</h1>
           <p>The purpose of this application is to discovere Openshift features. We hope you enjoy it!</p>
           <p>configured by Ferhat Sanuc</p>
