@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Ferhat Sanuc Tez Calismasi</title>
+    <title>BuluT Teknoloji Günleri</title>
   </head>
   <body>
     <div class="container-fluid">
@@ -40,7 +40,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="redrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
