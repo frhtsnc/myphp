@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>BuluT Teknoloji Günleri</title>
+    <title>IEEE</title>
   </head>
   <body>
     <div class="container-fluid">
@@ -40,7 +40,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="grenrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
